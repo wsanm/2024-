@@ -10,4 +10,4 @@ Abstract 概要
 2 采用优化策略—数据增强工具(作用在未标注图像)  
 3 进行辅助监督—继承语义分割知识（作用在未标注图像）  
 ## Depth Anything v2
-Depth Anything v2放出了演示[Demo](https://huggingface.co/spaces/depth-anything/Depth-Anything-V2"上传照片显示深度估计")
+Depth Anything v2放出了演示[Demo](https://huggingface.co/spaces/depth-anything/Depth-Anything-V2 "上传照片显示深度估计")
